@@ -9,6 +9,8 @@ A SwiftUI iOS app that grabs most recent home/front page stories from hacker new
 ## Live Demo
 #### NewsX Live Demo
 
+https://github.com/kbvyas/NewsX/blob/344edb755a6d1fb551c4a4f1cda02e66c1b1eae8/NewsX/NewsX-Demo.mp4
+
 ## Learning Objectives
 
 * Creating a SwiftUI app
